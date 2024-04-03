@@ -1,0 +1,20 @@
+body {
+	background-image: url("TłoStrony.png");
+}
+#pudelko {
+	background-color: ;
+	width: 27%;
+	height: 50%;
+	position: relative;
+}
+#srodek {
+	margin-top: 3%;
+	margin-left: 28%;
+}
+#stopka {
+	background-color: ;
+	width: 60%;
+	height: 30%;
+	position: relative;
+	margin-top: 9%;
+}
